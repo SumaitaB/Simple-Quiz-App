@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="spinner" type="id" />
+    <item name="checkBox" type="id" />
+    <item name="radioGroup" type="id" />
+    <item name="questionTextView" type="id" />
+    <item name="nextButton" type="id" />
+    <item name="quitButton" type="id" />
+    <item name="scoreTextView" type="id" />
+</resources>
